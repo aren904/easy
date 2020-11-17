@@ -1,0 +1,15 @@
+server:
+  port: 9090
+
+
+
+
+
+
+#user:
+# name: "aren"
+# age: 13
+
+#                                      spring:
+#                                        thymeleaf:
+#                                          cache: false
